@@ -6,7 +6,7 @@ This capstone project simulates a complete enterprise network connecting a Headq
 
 ## Network Topology
 
-![Network Topology](Project7_Topology.png)
+![Network Topology](topology.png)
 
 ## Technologies Used
 
